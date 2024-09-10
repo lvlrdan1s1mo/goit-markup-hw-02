@@ -59,7 +59,8 @@ color: #404bbf;
 .adres{
     font-family: "Roboto", sans-serif;
 font-weight: 400;
-font-size: normal;
+font-size: 16px;
+font-style: normal;
 
 /* line-height: 24px; */ 
 line-height: 150%;
