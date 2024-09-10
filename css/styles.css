@@ -56,11 +56,13 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #404bbf;
 }
+.address{
+    font-style: normal;
+}
 .adres{
     font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-font-style: normal;
 
 /* line-height: 24px; */ 
 line-height: 150%;
