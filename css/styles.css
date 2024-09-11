@@ -20,7 +20,7 @@ font-weight: 700;
 font-size: 18px;
 
 /* line-height: 21px; */ 
-line-height: 117%;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -223,7 +223,7 @@ font-weight: 700;
 font-size: 18px;
 
 /* line-height: 21px; */ 
-line-height: 117%;
+line-height: 1.5;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
