@@ -198,6 +198,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize
 }
 .section-uno{
     background-color: #2e2f42;
@@ -246,4 +247,6 @@ color: #2e2f42;
 .il-uno{
     background-color: #FFFFFF
 }
-
+.img-sees{
+    width: 360px;
+}
