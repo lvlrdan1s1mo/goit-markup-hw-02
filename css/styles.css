@@ -229,7 +229,16 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
 }
+.title-section-duos{
+font-weight: 700;
+font-size: 36px;
 
+/* line-height: 40px; */ 
+line-height: 111%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
 
 
 
